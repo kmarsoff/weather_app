@@ -1,0 +1,17 @@
+{
+    "polati" : "Polati",
+    "today" : "TODAY",
+    "tomorrow" : "TOMORROW",
+    "aftertomorrow" : "DAY AFTER TOMORROW",
+    "error" : "Something went wrong...",
+    "maxTemp" : "Maximum temperature",
+    "minTemp" : "Minimum temperature",
+    "windSpeed" : "Wind speed:",
+    "precip" : "Precipitaion:",
+    "humidity" : "Average humidity",
+    "kmh" : " km/h",
+    "feelslike_c" : "Feels like",
+    "temp_c": "Temperature",
+    "daily": "Daily",
+    "hourly": "Hourly"
+}
